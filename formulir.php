@@ -25,7 +25,7 @@
             <input type="email" name="email" class="form-text"><br>
 
             <label for="">Nomor HP</label><br>
-            <input type="text" name="nohp" class="form-text"><br>
+            <input type="text" name="telpon" class="form-text"><br>
 
             <label for="">Alamat</label><br>
             <textarea name="alamat" id="" cols="64" rows="10"></textarea><br>
